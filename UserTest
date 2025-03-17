@@ -1,0 +1,48 @@
+[                                                                                                               
+     {                                                                                                           
+         "id": 11,                                                                                               
+         "name": "Josue Gusikowski",                                                                             
+         "username": "Jayce47",                                                                                  
+         "email": "Jayce47@email.com",                                                                           
+         "address": {                                                                                            
+             "street": "987 Harris Turnpike",                                                                    
+             "suite": "Suite 956",                                                                               
+             "city": "West Russel",                                                                              
+             "zipcode": "16597",                                                                                 
+             "geo": {                                                                                            
+                 "lat": "7.9153",                                                                                
+                 "lng": "115.2078"                                                                               
+             }                                                                                                   
+         },                                                                                                      
+         "phone": "269-777-0075 x45644",                                                                         
+         "website": "mozelle.net",                                                                               
+         "company": {                                                                                            
+             "name": "Bechtelar, Hickle and Schmeler",                                                           
+             "catchPhrase": "User-centric system-worthy application",                                            
+             "bs": "innovate integrated methodologies"                                                           
+         }                                                                                                       
+     },                                                                                                          
+     {                                                                                                           
+         "id": 12,                                                                                               
+         "name": "Shea Trantow",                                                                                 
+         "username": "Brigitte.Harber34",                                                                        
+         "email": "Brigitte.Harber34@email.com",                                                                 
+         "address": {                                                                                            
+             "street": "91783 Considine Motorway",                                                               
+             "suite": "Suite 941",                                                                               
+             "city": "New Elnora",                                                                               
+             "zipcode": "77771-7777",                                                                            
+             "geo": {                                                                                            
+                 "lat": "-51.7923",                                                                              
+                 "lng": "176.1539"                                                                               
+             }                                                                                                   
+         },                                                                                                      
+         "phone": "586-361-7525",                                                                                
+         "website": "ryley.com",                                                                                 
+         "company": {                                                                                            
+             "name": "O'Connell, Stiedemann and Gutkowski",                                                      
+             "catchPhrase": "Re-contextualized value-added synergy",                                             
+             "bs": "harness impactful e-services"                                                                
+         }                                                                                                       
+     }                                                                                                           
+ ]                
