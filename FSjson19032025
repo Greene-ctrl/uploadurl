@@ -1,6 +1,4 @@
 [
-  # Diese Klammer bleibt immer, und ist die einzige öffnende in diesem Format 
-  # SOSS
   {
     "id": 2327,
     "citation EN": "King, Billie Jean: This tennis icon paved the way for women in sports (05/2015), TED, TED Conferences, LLC, https://www.ted.com/talks/billie_jean_king_this_tennis_icon_paved_the_way_for_women_in_sports [retrieved 06/24/2025].",
@@ -65,7 +63,6 @@
     "speakerName": "Allyson Felix",
     "speakerIntro": "Olympic champion, entrepreneur, and advocate for mothers in sports"
   },
-  # SOSSI
   {
     "id": 1483,
     "citation EN": "Kessling, Wolfgang: How to air-condition outdoor spaces (04/2012), TED, TED Conferences , URL: https://www.ted.com/talks/wolfgang_kessling_how_to_air_condition_outdoor_spaces [retrieved 06/02/2025].",
@@ -82,8 +79,6 @@
     "speakerName": "Wolfgang Kessling",
     "speakerIntro": null
   }, 
-  # FS
-  # json
 {
     "id": 104,
     "citation EN": "McDonough, William: Cradle to cradle design (02/2005), TED, TED Conferences, LLC, URL: https://www.ted.com/talks/william_mcdonough_cradle_to_cradle_design [retrieved 06/03/2025].",
@@ -357,4 +352,3 @@
     "speakerIntro": "Venture capitalist"
 }
 ] 
-# Diese Klammer bleibt immer, und ist die einzige schließende in diesem Format 
