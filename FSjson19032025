@@ -1,4 +1,4 @@
-[
+[# Diese Klammer bleibt immer, und ist die einzige öffnende in diesem Format 
   # SOSS
   {
     "id": 2327,
@@ -355,4 +355,4 @@
     "speakerName": "Freada Kapor Klein",
     "speakerIntro": "Venture capitalist"
 }
-]
+] # Diese Klammer bleibt immer, und ist die einzige schließende in diesem Format 
