@@ -40,5 +40,47 @@
     "speakerName": "Comisión Nacional del Mercado de Valores",
     "citation": "Comisión Nacional del Mercado de Valores: Sustainable Finance (11/2019), youtube, 2025 Google LLC, https://www.youtube.com/watch?v=vdjFGn5PKnA",
     "id": 74923
+},
+{
+  "internalName": "Doppelte Materialität Podcast",
+  "elementType": "Spotify Podcast",
+  "titleEN": "Double Materiality: What is it and why is it important?",
+  "titleDE": "Doppelte Materialität: Was ist das und warum ist es wichtig?",
+  "descriptionEN": "Dive into the world of double materiality – a concept revolutionizing sustainability reporting! This podcast explores why companies must consider not only their financial interests but also their environmental and social impacts. Learn how double materiality fosters transparency, builds trust, and helps businesses achieve strategic sustainability goals. With insightful perspectives from Nicolette Behncke of PwC Germany, this episode sheds light on the complexities of materiality analysis. A must-listen for those who see sustainability not just as an obligation but as an opportunity. Source: Behncke, Nicolette: Doppelte Materialität: Was ist das und warum ist es wichtig? (06/2025), Podcast.de, Sustainability To Go, URL: https://www.podcast.de/episode/623370111/doppelte-materialitaet-was-ist-das-und-warum-ist-es-wichtig [retrieved 06/05/2025].",
+  "descriptionDE": "Tauche ein in die Welt der doppelten Materialität – ein Konzept, das die Nachhaltigkeitsberichterstattung revolutioniert! Dieser Podcast beleuchtet, warum Unternehmen nicht nur ihre finanziellen Interessen, sondern auch ihre ökologischen und sozialen Auswirkungen berücksichtigen müssen. Erfahre, wie die doppelte Materialität Transparenz schafft, Vertrauen stärkt und Unternehmen dabei hilft, strategische Nachhaltigkeitsziele zu erreichen. Mit spannenden Einblicken von Nicolette Behncke von PwC Deutschland wird Licht ins Dunkel der Wesentlichkeitsanalysen gebracht. Ein Muss für alle, die Nachhaltigkeit nicht nur als Pflicht, sondern als Chance sehen! Quelle: Behncke, Nicolette: Doppelte Materialität: Was ist das und warum ist es wichtig? (06/2025), Podcast.de, Sustainability To Go, URL: https://www.podcast.de/episode/623370111/doppelte-materialitaet-was-ist-das-und-warum-ist-es-wichtig [abgerufen 05/06/2025].",
+  "embedEN": "https://podtail.com/podcast/sustainability-to-go/doppelte-materialitat-was-ist-das-und-warum-ist-es/",
+  "embedDE": "https://www.podcast.de/episode/623370111/doppelte-materialitaet-was-ist-das-und-warum-ist-es-wichtig",
+  "duration": 32,
+  "speakerName": "Nicolette Behncke",
+  "citation": "Behncke, Nicolette: Doppelte Materialität: Was ist das und warum ist es wichtig? (06/2025), Podcast, Sustainability To Go, URL: https://www.podcast.de/episode/623370111/doppelte-materialitaet-was-ist-das-und-warum-ist-es-wichtig [retrieved 06/05/2025].",
+  "id": 46553
+},
+{
+  "internalName": "Nachhaltigkeitsberichterstattung Podcast",
+  "elementType": "Spotify Podcast",
+  "titleEN": "Sustainability Reporting - Just Do It",
+  "titleDE": "Nachhaltigkeitsberichterstattung - einfach machen",
+  "descriptionEN": "Experience how Carsten Ernst brings the complex world of sustainability reporting to life – a fascinating journey through CSRD/ESRS regulations, where theoretical requirements are transformed into practical, actionable steps. This podcast not only provides a clear, SME-oriented solution approach but also demonstrates how regulatory challenges can be turned into real opportunities for sustainable business success. Source: Ernst, Carsten: Nachhaltigkeitsberichterstattung - einfach machen (02/2025), Apple Podcasts, 2025 Apple Inc, URL: https://podcasts.apple.com/de/podcast/nachhaltigkeitsberichterstattung-einfach-machen/id1763813147?utm_source=chatgpt.com [retrieved 06/05/2025].",
+  "descriptionDE": "Erleben Sie, wie Carsten Ernst die komplexe Welt der Nachhaltigkeitsberichterstattung lebendig werden lässt – eine faszinierende Reise durch die CSRD/ESRS-Regulierungen, in der theoretische Anforderungen in praxisnahe, umsetzbare Schritte verwandelt werden. Dieser Podcast bietet nicht nur einen klaren, mittelstandsorientierten Lösungsansatz, sondern zeigt auf, wie sich regulatorische Herausforderungen in echte Chancen für nachhaltigen Unternehmenserfolg verwandeln. Quelle: Ernst, Carsten: Nachhaltigkeitsberichterstattung - einfach machen (02/2025), Apple Podcasts, 2025 Apple Inc, URL: https://podcasts.apple.com/de/podcast/nachhaltigkeitsberichterstattung-einfach-machen/id1763813147?utm_source=chatgpt.com [abgerufen 05/06/2025].",
+  "embedEN": "https://podcasts.apple.com/us/podcast/nachhaltigkeitsberichterstattung-einfach-machen/id1763813147",
+  "embedDE": "https://www.podcast.de/podcast/3557429/nachhaltigkeitsberichterstattung-einfach-machen",
+  "duration": 33,
+  "speakerName": "Carsten Ernst",
+  "citation": "Ernst, Carsten: Nachhaltigkeitsberichterstattung - einfach machen (02/2025), Apple Podcasts, 2025 Apple Inc, URL: https://podcasts.apple.com/de/podcast/nachhaltigkeitsberichterstattung-einfach-machen/id1763813147?utm_source=chatgpt.com [retrieved 06/05/2025].",
+  "id": 7644
+},
+{
+  "internalName": "CSRD Reporting Podcast",
+  "elementType": "Spotify Podcast",
+  "titleEN": "CSRD Reporting with Gen AI, ESG Data Strategy, and Sustainability Software - How It Works",
+  "titleDE": "CSRD-Reporting mit Gen AI, ESG-Datenstrategie und Sustainability Software - so gehts",
+  "descriptionEN": "Discover how CSRD reporting is evolving with Generative AI, ESG data strategies, and sustainability software. This podcast explores the essential elements businesses need to implement effective sustainability reporting while leveraging AI-driven solutions. Guests Dilara and Stephan provide expert insights into the latest ESG software trends and how companies can optimize their sustainability strategies. Source: N/A: 45 CSRD-Reporting mit Gen AI, ESG-Datenstrategie und Sustainability Software - so gehts (06/2024), Podcast, 2025 Podcast, URL: https://www.podcast.de/episode/624917817/45-csrd-reporting-mit-gen-ai-esg-datenstrategie-und-sustainability-software-so-gehts-i-gaeste-dilara-stephan [retrieved 06/05/2025].",
+  "descriptionDE": "Erfahre, wie sich das CSRD-Reporting mit Generativer KI, ESG-Datenstrategien und Sustainability Software verändert. Dieser Podcast beleuchtet die entscheidenden Elemente, die Unternehmen benötigen, um effektives Nachhaltigkeitsreporting umzusetzen und KI-gestützte Lösungen zu nutzen. Gäste Dilara und Stephan geben wertvolle Einblicke in die neuesten ESG-Software-Trends und zeigen, wie Unternehmen ihre Nachhaltigkeitsstrategien optimieren können. Quelle: N/A: 45 CSRD-Reporting mit Gen AI, ESG-Datenstrategie und Sustainability Software - so gehts (06/2024), Podcast, 2025 Podcast, URL: https://www.podcast.de/episode/624917817/45-csrd-reporting-mit-gen-ai-esg-datenstrategie-und-sustainability-software-so-gehts-i-gaeste-dilara-stephan [abgerufen 05/06/2025].",
+  "embedEN": "https://podcasts.apple.com/de/podcast/45-csrd-reporting-mit-gen-ai-esg-datenstrategie-und/id1632254459?i=1000647178608",
+  "embedDE": "https://www.podcast.de/episode/624917817/45-csrd-reporting-mit-gen-ai-esg-datenstrategie-und-sustainability-software-so-gehts-i-gaeste-dilara-stephan",
+  "duration": 61,
+  "speakerName": "Dilara, Stephan",
+  "citation": "Dilara, Stephan: 45 CSRD-Reporting mit Gen AI, ESG-Datenstrategie und Sustainability Software - so gehts (06/2024), Podcast, Gewinne Zukunft, URL: https://www.podcast.de/episode/624917817/45-csrd-reporting-mit-gen-ai-esg-datenstrategie-und-sustainability-software-so-gehts-i-gaeste-dilara-stephan [retrieved 06/05/2025].",
+  "id": 9876
 }
 ]
